@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshy0304/DSA/tree/master/0001-two-sum) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anshy0304/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

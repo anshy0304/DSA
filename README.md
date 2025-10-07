@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshy0304/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshy0304/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |

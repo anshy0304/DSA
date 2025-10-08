@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

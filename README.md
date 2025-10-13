@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -94,4 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshy0304/DSA/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->

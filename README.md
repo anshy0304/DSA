@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anshy0304/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/anshy0304/DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anshy0304/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 | [1448-maximum-69-number](https://github.com/anshy0304/DSA/tree/master/1448-maximum-69-number) |

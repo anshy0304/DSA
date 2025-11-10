@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/anshy0304/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/anshy0304/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/anshy0304/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshy0304/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/anshy0304/DSA/tree/master/0134-gas-station) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anshy0304/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anshy0304/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/anshy0304/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshy0304/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anshy0304/DSA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/anshy0304/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/anshy0304/DSA/tree/master/0064-minimum-path-sum) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
 ## String

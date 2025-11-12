@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anshy0304/DSA/tree/master/0322-coin-change) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshy0304/DSA/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshy0304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anshy0304/DSA/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

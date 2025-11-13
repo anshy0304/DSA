@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshy0304/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anshy0304/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anshy0304/DSA/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshy0304/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshy0304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/anshy0304/DSA/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
 ## Linked List

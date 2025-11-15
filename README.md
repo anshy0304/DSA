@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshy0304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/anshy0304/DSA/tree/master/1448-maximum-69-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/anshy0304/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Backtracking
 |  |
 | ------- |

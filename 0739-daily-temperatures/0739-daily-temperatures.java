@@ -19,16 +19,35 @@
 // }
 
 
+// class Solution {
+//     public int[] dailyTemperatures(int[] nums) {
+//         Stack<Integer> st = new Stack<>();
+//         int n = nums.length;
+//         int[] ans= new int[nums.length];
+//         for(int i =0 ; i<n ; i++){
+//             while(!st.isEmpty() && nums[i]>nums[st.peek()]){
+//                 int prev= st.pop();
+//                 ans[prev]=i-prev;
+//             }
+//             st.push(i);
+//         }
+//         return ans;
+//     }
+// }
+
+
+
 class Solution {
-    public int[] dailyTemperatures(int[] nums) {
-        Stack<Integer> st = new Stack<>();
-        int n = nums.length;
-        int[] ans= new int[nums.length];
-        for(int i =0 ; i<n ; i++){
-            while(!st.isEmpty() && nums[i]>nums[st.peek()]){
-                int prev= st.pop();
-                ans[prev]=i-prev;
+    public int[] dailyTemperatures(int[] temperatures) {
+        int n = temperatures.length;
+        int[] ans = new int[n];
+        Stack<Integer> st = new Stack<>(); // will store indices
+
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.isEmpty() && temperatures[st.peek()] <= temperatures[i]) {
+                st.pop();
             }
+            ans[i] = st.isEmpty() ? 0 : st.peek() - i;
             st.push(i);
         }
         return ans;

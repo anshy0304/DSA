@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/anshy0304/DSA/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |
+| [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -257,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

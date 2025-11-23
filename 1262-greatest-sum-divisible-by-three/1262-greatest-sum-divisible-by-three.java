@@ -3,33 +3,27 @@ import java.util.*;
 class Solution {
     public int maxSumDivThree(int[] nums) {
         int sum = 0;
-        List<Integer> r1 = new ArrayList<>();
-        List<Integer> r2 = new ArrayList<>();
+        List<Integer> l1 = new ArrayList<>();
+        List<Integer> l2 = new ArrayList<>();
+        for(int num:nums){
+            sum+=num;
+            if(num%3 == 1) l1.add(num);
+            if(num%3 == 2) l2.add(num);
 
-        for (int num : nums) {
-            sum += num;
-            if (num % 3 == 1) r1.add(num);
-            else if (num % 3 == 2) r2.add(num);
         }
-
-        Collections.sort(r1);
-        Collections.sort(r2);
-
-        int mod = sum % 3;
-        if (mod == 0) return sum;
-
+        if(sum%3 == 0) return sum;
+        Collections.sort(l1);
+        Collections.sort(l2);
         int ans = 0;
-
-        if (mod == 1) {
-            int option1 = r1.size() > 0 ? sum - r1.get(0) : Integer.MIN_VALUE;
-            int option2 = r2.size() > 1 ? sum - r2.get(0) - r2.get(1) : Integer.MIN_VALUE;
-            ans = Math.max(option1, option2);
-        } else { 
-            int option1 = r2.size() > 0 ? sum - r2.get(0) : Integer.MIN_VALUE;
-            int option2 = r1.size() > 1 ? sum - r1.get(0) - r1.get(1) : Integer.MIN_VALUE;
-            ans = Math.max(option1, option2);
+        if(sum%3 == 1){
+            int opt1 = l1.size()>0?sum - l1.get(0):Integer.MIN_VALUE;
+            int opt2 = l2.size() >1?sum-l2.get(0)-l2.get(1):Integer.MIN_VALUE;
+            ans = Math.max(opt1,opt2);
+        }else {
+             int opt1 = l2.size()>0?sum - l2.get(0):Integer.MIN_VALUE;
+            int opt2 = l1.size() >1?sum-l1.get(0)-l1.get(1):Integer.MIN_VALUE;
+            ans = Math.max(opt1,opt2);
         }
-
-        return Math.max(ans, 0);
+        return Math.max(ans,0);
     }
 }

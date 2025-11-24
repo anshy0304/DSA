@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anshy0304/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/anshy0304/DSA/tree/master/1127-last-stone-weight) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/anshy0304/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 ## Binary Search
 |  |

@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anshy0304/DSA/tree/master/0205-isomorphic-strings) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshy0304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/anshy0304/DSA/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anshy0304/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |

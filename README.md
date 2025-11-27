@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshy0304/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
+| [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshy0304/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

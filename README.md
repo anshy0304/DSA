@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anshy0304/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshy0304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anshy0304/DSA/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/anshy0304/DSA/tree/master/0503-next-greater-element-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anshy0304/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
+| [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anshy0304/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 ## Binary Search
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anshy0304/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshy0304/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshy0304/DSA/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshy0304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshy0304/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |

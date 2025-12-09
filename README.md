@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/anshy0304/DSA/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anshy0304/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
+| [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/anshy0304/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anshy0304/DSA/tree/master/0205-isomorphic-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
+| [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/anshy0304/DSA/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshy0304/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/anshy0304/DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshy0304/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |

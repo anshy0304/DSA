@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/anshy0304/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/anshy0304/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/anshy0304/DSA/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/anshy0304/DSA/tree/master/1920-build-array-from-permutation) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1920-build-array-from-permutation](https://github.com/anshy0304/DSA/tree/master/1920-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshy0304/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |

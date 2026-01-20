@@ -14,20 +14,16 @@
  * }
  */
 class Solution {
+    int max = 0;
     public int height(TreeNode root){
         if(root == null) return 0;
         int lh = height(root.left);
         int rh = height(root.right);
-        return 1 + Math.max(lh,rh);
+        max = Math.max(max,lh+rh);
+        return Math.max(lh,rh) + 1;
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null) return 0;
-        int lhdt = diameterOfBinaryTree(root.left);
-        int lh = height(root.left);
-        int rhdt = diameterOfBinaryTree(root.right);
-        int rh = height(root.right);
-        
-        int selfDt = lh + rh;
-        return Math.max(selfDt,Math.max(lhdt,rhdt));
+        height(root);
+        return max;
     }
 }

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2574-left-and-right-sum-differences](https://github.com/anshy0304/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/anshy0304/DSA/tree/master/2706-buy-two-chocolates) |
 | [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshy0304/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/anshy0304/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/anshy0304/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anshy0304/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search Tree

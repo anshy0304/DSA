@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshy0304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anshy0304/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/anshy0304/DSA/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/anshy0304/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/anshy0304/DSA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshy0304/DSA/tree/master/0605-can-place-flowers) |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anshy0304/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anshy0304/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/anshy0304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anshy0304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anshy0304/DSA/tree/master/0322-coin-change) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshy0304/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/anshy0304/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/anshy0304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |

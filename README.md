@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anshy0304/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anshy0304/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshy0304/DSA/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anshy0304/DSA/tree/master/0283-move-zeroes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anshy0304/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anshy0304/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/anshy0304/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Prefix Sum

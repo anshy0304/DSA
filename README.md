@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/anshy0304/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/anshy0304/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/anshy0304/DSA/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshy0304/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/anshy0304/DSA/tree/master/0704-binary-search) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anshy0304/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/anshy0304/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anshy0304/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/anshy0304/DSA/tree/master/2574-left-and-right-sum-differences) |

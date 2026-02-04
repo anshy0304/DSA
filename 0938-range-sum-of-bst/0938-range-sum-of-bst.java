@@ -22,7 +22,7 @@ class Solution {
             ans+=root.val;
             inorder(root.right,low,high);
         }
-        else if(root.val > low){
+        else if(root.val > high){
             inorder(root.left,low,high);
         }
         else {

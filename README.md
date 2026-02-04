@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshy0304/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anshy0304/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshy0304/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshy0304/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/anshy0304/DSA/tree/master/3028-ant-on-the-boundary) |
+| [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -501,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anshy0304/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

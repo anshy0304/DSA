@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anshy0304/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anshy0304/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshy0304/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/anshy0304/DSA/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anshy0304/DSA/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshy0304/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anshy0304/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/anshy0304/DSA/tree/master/0771-jewels-and-stones) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshy0304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/anshy0304/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/anshy0304/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anshy0304/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anshy0304/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/anshy0304/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshy0304/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anshy0304/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshy0304/DSA/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/anshy0304/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/anshy0304/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/anshy0304/DSA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshy0304/DSA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/anshy0304/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/anshy0304/DSA/tree/master/0222-count-complete-tree-nodes) |

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anshy0304/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/anshy0304/DSA/tree/master/1448-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/anshy0304/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshy0304/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshy0304/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/anshy0304/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/anshy0304/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/anshy0304/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Graph
 |  |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anshy0304/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |

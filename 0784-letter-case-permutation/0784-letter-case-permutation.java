@@ -1,24 +1,31 @@
 class Solution {
 
-    public void helper(String s,List<String> ans,int in,String per){
+    public void helper(String s,List<String> ans,int in,StringBuilder per){
         if(in == s.length()){
-            ans.add(per);
-            per = "";
+            ans.add(per.toString());
             return;
         }
         char ch = s.charAt(in);
+        int len = per.length();
         if(Character.isLetter(ch)){
-            helper(s,ans,in+1,per + Character.toUpperCase(ch));
-            helper(s,ans,in+1,per+ Character.toLowerCase(ch));
+            per.append(Character.toUpperCase(ch));
+            helper(s,ans,in+1,per);
+            per.setLength(len);
+
+            per.append(Character.toLowerCase(ch));
+            helper(s,ans,in+1,per);
+            per.setLength(len);
         }else {
-            helper(s,ans,in+1,per+ch);
+            per.append(ch);
+            helper(s,ans,in+1,per);
+            per.setLength(len);
         }
         
     }
 
     public List<String> letterCasePermutation(String s) {
         List<String> ans= new ArrayList<>();
-        String per = "";
+        StringBuilder per = new StringBuilder();
         helper(s,ans,0,per);
         return ans;
     }

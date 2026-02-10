@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshy0304/DSA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
+| [0784-letter-case-permutation](https://github.com/anshy0304/DSA/tree/master/0784-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
 ## Bit Manipulation
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshy0304/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/anshy0304/DSA/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/anshy0304/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 ## Binary Search
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anshy0304/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/anshy0304/DSA/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/anshy0304/DSA/tree/master/0784-letter-case-permutation) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/anshy0304/DSA/tree/master/1250-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshy0304/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |

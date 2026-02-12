@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anshy0304/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anshy0304/DSA/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/anshy0304/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/anshy0304/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anshy0304/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anshy0304/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anshy0304/DSA/tree/master/0053-maximum-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshy0304/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshy0304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anshy0304/DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/anshy0304/DSA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/anshy0304/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |

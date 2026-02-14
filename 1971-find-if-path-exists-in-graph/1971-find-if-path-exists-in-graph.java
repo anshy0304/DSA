@@ -1,11 +1,16 @@
 class Solution {
 
-    public void dfs(HashMap<Integer,List<Integer>> graph,int source,int destination,boolean visited[]){
-
+    public void bfs(HashMap<Integer,List<Integer>> graph,int source,int destination,boolean visited[]){
+        Queue<Integer> queue = new LinkedList<>();
+        queue.add(source);
         visited[source] = true;
-        for(int nd:graph.getOrDefault(source, new ArrayList<>())){
-            if(!visited[nd]){
-                dfs(graph,nd,destination,visited);
+        while(!queue.isEmpty()){
+            int f=queue.poll();
+            for(int nd:graph.getOrDefault(f,new ArrayList<>())){
+                if(!visited[nd]){
+                    queue.add(nd);
+                    visited[nd] = true;
+                }
             }
         }
 
@@ -21,7 +26,7 @@ class Solution {
             graph.computeIfAbsent(b,k -> new ArrayList<>()).add(a);
         }
         boolean visited[] = new boolean[n];
-        dfs(graph,source,destination,visited);
+        bfs(graph,source,destination,visited);
         return visited[destination];
     }
 }

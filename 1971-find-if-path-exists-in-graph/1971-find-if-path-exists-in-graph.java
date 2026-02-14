@@ -1,19 +1,13 @@
 class Solution {
 
-    public void bfs(ArrayList<ArrayList<Integer>> graph,int source,int destination,boolean visited[]){
-        Queue<Integer> queue = new LinkedList<>();
-        queue.add(source);
-        visited[source] = true;
-        while(!queue.isEmpty()){
-            int f = queue.poll();
-            for(int nd:graph.get(f)){
-                if(!visited[nd]){
-                    queue.add(nd);
-                    visited[nd] = true;
-                }
+    public void dfs(ArrayList<ArrayList<Integer>> graph,int source,int destination,boolean visited[]){
+       visited[source] = true;
+       for(int i:graph.get(source)){
+            if(!visited[i]){
+                dfs(graph,i,destination,visited);
             }
-        }
 
+       }
     }
 
     public boolean validPath(int n, int[][] edges, int source, int destination) {
@@ -30,7 +24,7 @@ class Solution {
             graph.get(a).add(b);
             graph.get(b).add(a);
         }
-        bfs(graph,source,destination,visited);
+        dfs(graph,source,destination,visited);
         return visited[destination];
     }
 }

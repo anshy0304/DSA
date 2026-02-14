@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anshy0304/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/anshy0304/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/anshy0304/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anshy0304/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
 |  |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshy0304/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anshy0304/DSA/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/anshy0304/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
 | ------- |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/anshy0304/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

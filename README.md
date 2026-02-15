@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshy0304/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/anshy0304/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/anshy0304/DSA/tree/master/2706-buy-two-chocolates) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anshy0304/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/anshy0304/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshy0304/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anshy0304/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
 ## Math
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/anshy0304/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anshy0304/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |

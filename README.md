@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/anshy0304/DSA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/anshy0304/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anshy0304/DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/anshy0304/DSA/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshy0304/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/anshy0304/DSA/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/anshy0304/DSA/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/anshy0304/DSA/tree/master/1039-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anshy0304/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/anshy0304/DSA/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anshy0304/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Breadth-First Search
 |  |

@@ -6,15 +6,14 @@ class Solution {
         int st = 0;
         for(int i=0;i<s.length();i++){
             freq[s.charAt(i)]++;
-            if(freq[s.charAt(i)] > 1){
-                while(freq[s.charAt(i)] != 1 ) {
-                    char ch = s.charAt(st);
-                    freq[ch]--;
-                    st++;
-                }
-            }
-            max = Math.max(max,i-st+1);
+            while(freq[s.charAt(i)] > 1){
+                char ch = s.charAt(st);
+                freq[ch]--;
+                st++;
+
+            }max = Math.max(max,i-st+1);
         }
-        return max;
+             return max;
+        }
+       
     }
-}

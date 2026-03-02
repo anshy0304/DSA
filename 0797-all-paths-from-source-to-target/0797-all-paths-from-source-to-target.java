@@ -3,7 +3,7 @@ class Solution {
     public void dfs(int[][] graph,List<List<Integer>> ans,List<Integer> path,int source,int n){
         
         path.add(source);
-        if(source == n) {ans.add(new ArrayList<>(path));}
+        if(source == n) {ans.add(new ArrayList<>(path));path.remove(path.size()-1);return;}
         for(int nbr:graph[source]){
             dfs(graph,ans,path,nbr,n);
         }

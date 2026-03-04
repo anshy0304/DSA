@@ -1,17 +1,17 @@
 class Solution {
-    public void clear(char[][] grid ,int i, int j){
-        if(j >= grid[0].length || i >= grid.length || j < 0 || i < 0) return;
-        if(grid[i][j] == '0' ) return;
-        grid[i][j] ='0'; 
-        clear(grid,i-1,j);
+
+    public void clear(char[][] grid,int i,int j){
+        if(i<0 || j<0 || i>=grid.length || j>= grid[0].length) return;
+        if(grid[i][j] != '1') return;
+        grid[i][j] = 0;
         clear(grid,i+1,j);
+        clear(grid,i-1,j);
         clear(grid,i,j+1);
-       
         clear(grid,i,j-1);
+        grid[i][j] = 1;
+    }    
         
-        
-        
-    }
+    
     public int numIslands(char[][] grid) {
         //ASCII ->  1 -> 49 || 0 -> 48
         int num = 0;

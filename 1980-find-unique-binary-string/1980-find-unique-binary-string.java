@@ -1,6 +1,7 @@
 class Solution {
     String finl ="";
     public void permutation(StringBuilder ans,String[] nums,int n){
+        if(finl.length() > 0) return;
         if(n == 0) {
             boolean found = false;
             for(int i=0;i<nums.length;i++){

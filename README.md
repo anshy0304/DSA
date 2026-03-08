@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/anshy0304/DSA/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/anshy0304/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshy0304/DSA/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshy0304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshy0304/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/anshy0304/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshy0304/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anshy0304/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
 | [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anshy0304/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [4107-find-missing-elements](https://github.com/anshy0304/DSA/tree/master/4107-find-missing-elements) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/anshy0304/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
+| [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/anshy0304/DSA/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshy0304/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anshy0304/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshy0304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshy0304/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List

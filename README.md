@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anshy0304/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anshy0304/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anshy0304/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshy0304/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/anshy0304/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshy0304/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anshy0304/DSA/tree/master/0229-majority-element-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anshy0304/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anshy0304/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anshy0304/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshy0304/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/anshy0304/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anshy0304/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshy0304/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshy0304/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshy0304/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshy0304/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshy0304/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anshy0304/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |

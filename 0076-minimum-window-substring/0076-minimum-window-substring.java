@@ -1,87 +1,36 @@
-// class Solution {
-//     public String minWindow(String s, String t) {
-//         int len_t = t.length();
-        
-//          int count = 0;
-
-//         int i = 0;
-//         int j = i;
-//         String ans = "";
-//         while(i<s.length() && j<s.length()){
-//             if (t.contains(String.valueOf(s.charAt(j)))) {
-//                 count++;
-//                 if(count == len_t){
-//                     String window = s.substring(i,j+1);
-//                     if(ans.isEmpty() || ans.length() > window.length()){
-//                         ans = window;
-//                     }
-//                     count = 0;
-//                     i = j+1;
-                    
-//                 }
-                
-//                 j++;
-                
-//             }else {
-//                 i++;
-//                 j++;
-//             }
-//         }
-//         return ans;
-//     }
-// }\
-
+import java.util.*;
 
 class Solution {
     public String minWindow(String s, String t) {
-        if (s.length() < t.length()) return "";
+        if(t.length() > s.length()) return "";
+        if(t.length() == 1){
+            if(s.contains(t)) return t;
+            return "";
 
-        int[] need = new int[128];
-        int[] have = new int[128];
-
-        // count frequency of t
-        for (char c : t.toCharArray()) {
-            need[c]++;
         }
-
-        int required = t.length();  // total chars needed
-        int count = 0;              // how many matched
-        int i = 0, j = 0;
-        String ans = "";
-
-        while (j < s.length()) {
-            char c = s.charAt(j);
-
-            // if this char is needed
-            if (need[c] > 0) {
-                if (have[c] < need[c]) {
-                    count++; // we satisfied one more char
+        int[] freq1 = new int[256];
+        int[] freq2 = new int[256];
+        int st = 0;
+        for(char ch:t.toCharArray()) freq1[ch]++;
+        int match=0;
+        String ansh = "";
+        int min = Integer.MAX_VALUE;
+        for(int i=0;i<s.length();i++){
+            char ch = s.charAt(i);
+            freq1[ch]--;
+            if(freq1[ch]>=0) match++;
+            while(match == t.length()){
+                if(i-st+1<min){
+                    min = i-st+1;
+                    ansh = s.substring(st,i+1);
                 }
-                have[c]++;
+                freq1[s.charAt(st)]++;
+                if(freq1[s.charAt(st)] > 0) match--;
+                st++;
+
             }
-
-            // when we have all chars, try to shrink
-            while (count == required) {
-                String window = s.substring(i, j + 1);
-                if (ans.isEmpty() || window.length() < ans.length()) {
-                    ans = window;
-                }
-
-                char left = s.charAt(i);
-                if (need[left] > 0) {
-                    have[left]--;
-                    if (have[left] < need[left]) {
-                        count--;
-                    }
-                }
-                i++;
-            }
-
-            j++;
+            
         }
-
-        return ans;
+        return ansh;
     }
-
-    
 }

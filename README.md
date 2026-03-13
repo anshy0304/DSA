@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshy0304/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1480-running-sum-of-1d-array](https://github.com/anshy0304/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshy0304/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anshy0304/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anshy0304/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anshy0304/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/anshy0304/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshy0304/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshy0304/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshy0304/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |

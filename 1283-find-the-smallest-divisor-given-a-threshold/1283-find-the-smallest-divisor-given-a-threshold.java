@@ -2,7 +2,7 @@ class Solution {
     public int check(int [] nums,int mid){
         int res = 0;
         for(int i=0;i<nums.length;i++){
-            res += Math.ceil((double)nums[i]/mid);
+            res += (nums[i]+mid-1)/mid;
         }
         return res;
     }

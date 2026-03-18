@@ -1,26 +1,25 @@
 class Solution {
-    public boolean isPalindrome(String p){
-        
-        int i=0;
-        int n = p.length()-1;
-        while(i<n){
-            if(p.charAt(i)!=p.charAt(n)){
-                return false;
-            }
+    public boolean palindrome(String s){
+        int i = 0;
+        int j =s.length()-1;
+        while(i<j){
+            if(s.charAt(i) != s.charAt(j)) return false;
             i++;
-            n--;
+            j--;
         }
         return true;
     }
-    public void helper(String s,List<List<String>> result,List<String> list,int index){
-        if(index == s.length()){
+
+    public void helper(String s,List<List<String>> result,List<String> list,int in){
+        if(in == s.length()) {
             result.add(new ArrayList<>(list));
             return;
         }
-        for(int i=index;i<s.length();i++){
-            String sub = s.substring(index,i+1);
-            if(isPalindrome(sub)){
-                list.add(sub);
+        for(int i=in;i<s.length();i++){
+            String temp = s.substring(in,i+1);
+
+            if(palindrome(temp.toString())){
+                list.add(temp.toString());
                 helper(s,result,list,i+1);
                 list.remove(list.size()-1);
             }

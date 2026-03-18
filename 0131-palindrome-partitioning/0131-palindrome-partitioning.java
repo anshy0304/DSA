@@ -15,8 +15,9 @@ class Solution {
             result.add(new ArrayList<>(list));
             return;
         }
+        String temp = "";
         for(int i=in;i<s.length();i++){
-            String temp = s.substring(in,i+1);
+            temp += s.charAt(i);
 
             if(palindrome(temp.toString())){
                 list.add(temp.toString());

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/anshy0304/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anshy0304/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anshy0304/DSA/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshy0304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/anshy0304/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshy0304/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/anshy0304/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anshy0304/DSA/tree/master/0205-isomorphic-strings) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/anshy0304/DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/anshy0304/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/anshy0304/DSA/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/anshy0304/DSA/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/anshy0304/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anshy0304/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshy0304/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/anshy0304/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/anshy0304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anshy0304/DSA/tree/master/0322-coin-change) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anshy0304/DSA/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anshy0304/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anshy0304/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anshy0304/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/anshy0304/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshy0304/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anshy0304/DSA/tree/master/0257-binary-tree-paths) |
@@ -669,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/anshy0304/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anshy0304/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshy0304/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

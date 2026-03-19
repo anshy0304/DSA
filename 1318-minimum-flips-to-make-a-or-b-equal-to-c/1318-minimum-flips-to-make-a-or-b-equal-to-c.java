@@ -5,7 +5,7 @@ class Solution {
             if((c&1) == 1) {
                 if((a&1) == 0 && (b&1) == 0) flip++;
             }
-            if((c&1) == 0){
+            else{
                 if((a&1 )== 1) flip++;
                 if((b&1) == 1) flip++;
             }

@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/anshy0304/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/anshy0304/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anshy0304/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anshy0304/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anshy0304/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshy0304/DSA/tree/master/0069-sqrtx) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anshy0304/DSA/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/anshy0304/DSA/tree/master/0050-powx-n) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshy0304/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Monotonic Queue
 |  |

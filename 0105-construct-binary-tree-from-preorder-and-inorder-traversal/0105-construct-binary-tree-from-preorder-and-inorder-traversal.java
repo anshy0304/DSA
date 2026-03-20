@@ -14,18 +14,22 @@
  * }
  */
 class Solution {
-    public TreeNode helper(int[] preorder,int prelo,int prehi,int[] inorder,int inlo,int inhi ) {
-        if(prelo>prehi) return null;
-        TreeNode root = new TreeNode(preorder[prelo]);
-        int i = inlo;
-        while( inorder[i]!=preorder[prelo]) i++;
-        int left = i - inlo;
-        root.left = helper(preorder,prelo + 1,prelo+left,inorder,inlo,i-1);
-        root.right = helper(preorder,prelo +left+ 1,prehi,inorder,i + 1,inhi);
-        return root; 
+    int idx;
+    public TreeNode solve(int[] preorder, int[] inorder,int start,int end){
+        if(start>end) return null;
+        int rootVal = preorder[idx];
+        int i=start;
+        for(;i<end;i++){
+            if(inorder[i] == rootVal) break;
+        }
+        idx++;
+        TreeNode root = new TreeNode(rootVal);
+        root.left = solve(preorder,inorder,start,i-1);
+        root.right = solve(preorder,inorder,i+1,end);
+        return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n = preorder.length;
-        return helper(preorder,0,n-1,inorder,0,n-1);
+        return solve(preorder,inorder,0,n-1);
     }
 }

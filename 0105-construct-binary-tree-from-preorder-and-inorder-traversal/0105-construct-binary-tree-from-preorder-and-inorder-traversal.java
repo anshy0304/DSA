@@ -19,7 +19,7 @@ class Solution {
         if(start>end) return null;
         int rootVal = preorder[idx];
         int i=start;
-        for(;i<end;i++){
+        for(;i<=end;i++){
             if(inorder[i] == rootVal) break;
         }
         idx++;

@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/anshy0304/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/anshy0304/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anshy0304/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/anshy0304/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/anshy0304/DSA/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/anshy0304/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/anshy0304/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anshy0304/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/anshy0304/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/anshy0304/DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/anshy0304/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/anshy0304/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/anshy0304/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/anshy0304/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anshy0304/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/anshy0304/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/anshy0304/DSA/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/anshy0304/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anshy0304/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/anshy0304/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/anshy0304/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/anshy0304/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/anshy0304/DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/anshy0304/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/anshy0304/DSA/tree/master/0802-find-eventual-safe-states) |

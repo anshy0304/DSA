@@ -16,10 +16,19 @@
 class Solution {
     public int countNodes(TreeNode root) {
         if(root == null) return 0;
-        int lcount = 0;
-        int rcount = 0;
-        lcount = countNodes(root.left);
-        rcount = countNodes(root.right);
-        return lcount + rcount + 1;
+        int count = 0;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty()){
+            int n = q.size();
+            count += n;
+            for(int i=0;i<n;i++){
+                TreeNode front = q.poll();
+                if(front.left!= null) q.add(front.left);
+                if(front.right != null) q.add(front.right);
+
+            }
+        }
+        return count;
     }
 }

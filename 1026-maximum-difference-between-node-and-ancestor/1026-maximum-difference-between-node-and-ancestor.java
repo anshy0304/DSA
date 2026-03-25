@@ -17,11 +17,11 @@ class Solution {
     int ans = 0;
     public void helper(TreeNode root,int min,int max){
         if(root == null){
-            ans = Math.max(ans,Math.abs(min-max));
             return;
         }
         max = Math.max(max,root.val);
         min = Math.min(min,root.val);
+        ans = Math.max(ans,Math.abs(min-max));
         helper(root.left,min,max);
         helper(root.right,min,max);
         

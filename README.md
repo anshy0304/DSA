@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anshy0304/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anshy0304/DSA/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/anshy0304/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshy0304/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/anshy0304/DSA/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/anshy0304/DSA/tree/master/0784-letter-case-permutation) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/anshy0304/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/anshy0304/DSA/tree/master/1250-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshy0304/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anshy0304/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |

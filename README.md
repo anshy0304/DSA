@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshy0304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anshy0304/DSA/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/anshy0304/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/anshy0304/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anshy0304/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/anshy0304/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/anshy0304/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/anshy0304/DSA/tree/master/0979-di-string-match) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshy0304/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/anshy0304/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshy0304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/anshy0304/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshy0304/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/anshy0304/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anshy0304/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshy0304/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anshy0304/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/anshy0304/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/anshy0304/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anshy0304/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/anshy0304/DSA/tree/master/1127-last-stone-weight) |
 ## Queue
 |  |

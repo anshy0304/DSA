@@ -793,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anshy0304/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/anshy0304/DSA/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->

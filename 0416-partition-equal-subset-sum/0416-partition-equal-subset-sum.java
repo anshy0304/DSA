@@ -1,21 +1,29 @@
 class Solution {
+
+    public boolean helper(int[] nums,int sum,int n,int[][] dp){
+        if(sum == 0) return true;
+        if(n == 0) return false;
+        if(dp[n][sum] != -1) return dp[n][sum] == 1;
+        boolean res;
+        if(nums[n-1] <= sum){
+             res = helper(nums,sum-nums[n-1],n-1,dp) || helper(nums,sum,n-1,dp);
+        }else res = helper(nums,sum,n-1,dp);
+             dp[n][sum] = res ?1:0;
+        return res;
+        
+    }
+
     public boolean canPartition(int[] nums) {
         int sum = 0;
         int n = nums.length;
-        for(int num:nums) sum += num;
-        if(sum %2 !=0) return false;
-        boolean dp[][] = new boolean[n+1][(sum/2)+1];
-        dp[0][0]  = true;
-        for(int i=1;i<n+1;i++){
-            for(int j=0;j<(sum/2)+1;j++){
-                if(j == 0) dp[i][j] = true;
-                else {
-                    if(nums[i-1] <= j){
-                        dp[i][j] = dp[i-1][j-nums[i-1]] || dp[i-1][j];
-                    }else dp[i][j] = dp[i-1][j];
-                }
-            }
+        for (int num : nums)
+            sum += num;
+        if (sum % 2 != 0)
+            return false;
+        int dp[][] = new int[n + 1][(sum / 2) + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
         }
-        return dp[n][sum/2];
+        return helper(nums, sum / 2, n, dp);
     }
 }

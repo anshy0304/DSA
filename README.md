@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anshy0304/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/anshy0304/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/anshy0304/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/anshy0304/DSA/tree/master/2706-buy-two-chocolates) |
 | [2742-painting-the-walls](https://github.com/anshy0304/DSA/tree/master/2742-painting-the-walls) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/anshy0304/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshy0304/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/anshy0304/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anshy0304/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anshy0304/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshy0304/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/anshy0304/DSA/tree/master/0140-word-break-ii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/anshy0304/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |

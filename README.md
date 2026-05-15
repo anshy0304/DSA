@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anshy0304/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anshy0304/DSA/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/anshy0304/DSA/tree/master/0412-fizz-buzz) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshy0304/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/anshy0304/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anshy0304/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshy0304/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/anshy0304/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshy0304/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshy0304/DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/anshy0304/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/anshy0304/DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/anshy0304/DSA/tree/master/0867-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |

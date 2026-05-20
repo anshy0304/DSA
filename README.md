@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anshy0304/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/anshy0304/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/anshy0304/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anshy0304/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/anshy0304/DSA/tree/master/2706-buy-two-chocolates) |
 | [2742-painting-the-walls](https://github.com/anshy0304/DSA/tree/master/2742-painting-the-walls) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anshy0304/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anshy0304/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
 | [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anshy0304/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshy0304/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anshy0304/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshy0304/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anshy0304/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshy0304/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anshy0304/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anshy0304/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |

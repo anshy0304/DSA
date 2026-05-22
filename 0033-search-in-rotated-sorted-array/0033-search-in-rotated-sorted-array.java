@@ -8,7 +8,6 @@ class Solution {
         }
         return -1;
     }
-
     public int search(int[] nums, int target) {
         if(nums[0] < nums[nums.length-1]) return binary(0,nums.length-1, nums,target);
         int pivot = 0;
@@ -26,8 +25,8 @@ class Solution {
             }else if(nums[mid] >= nums[0]) st = mid+1;
             else end = mid -1 ;
         }
-        int left = binary(0,pivot-1,nums,target);
-        if(left != -1) return left;
-        return binary(pivot,n-1,nums,target);
+        // int left = binary(0,pivot-1,nums,target);
+        // if(left != -1) return left;
+        return binary(0,pivot-1,nums,target) == -1 ?binary(pivot,n-1,nums,target):binary(0,pivot-1,nums,target);
     }
 }

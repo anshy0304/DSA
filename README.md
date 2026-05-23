@@ -836,4 +836,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/anshy0304/DSA/tree/master/0577-employee-bonus) |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshy0304/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

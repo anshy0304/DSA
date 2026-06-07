@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshy0304/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1340-jump-game-v](https://github.com/anshy0304/DSA/tree/master/1340-jump-game-v) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anshy0304/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshy0304/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anshy0304/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/anshy0304/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/anshy0304/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/anshy0304/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshy0304/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anshy0304/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshy0304/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/anshy0304/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/anshy0304/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anshy0304/DSA/tree/master/0867-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/anshy0304/DSA/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/anshy0304/DSA/tree/master/1331-path-with-maximum-gold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anshy0304/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anshy0304/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anshy0304/DSA/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshy0304/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |

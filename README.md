@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshy0304/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshy0304/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anshy0304/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/anshy0304/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anshy0304/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/anshy0304/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshy0304/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/anshy0304/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1980-find-unique-binary-string](https://github.com/anshy0304/DSA/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/anshy0304/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2404-most-frequent-even-element](https://github.com/anshy0304/DSA/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/anshy0304/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/anshy0304/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anshy0304/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/anshy0304/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anshy0304/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/anshy0304/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Graph
 |  |

@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshy0304/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anshy0304/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/anshy0304/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/anshy0304/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/anshy0304/DSA/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/anshy0304/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anshy0304/DSA/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/anshy0304/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/anshy0304/DSA/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/anshy0304/DSA/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshy0304/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Monotonic Queue

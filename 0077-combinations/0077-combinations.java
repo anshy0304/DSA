@@ -4,11 +4,11 @@ class Solution {
             ans.add(new ArrayList<>(num));
             return;
         }
-        for(int i=start;i<=n;i++){
-            num.add(i);
-            helper(ans,num,n,k,i+1);
-            num.remove(num.size()-1);
-        }
+        if(start > n) return;
+        helper(ans,num,n,k,start +1);
+        num.add(start);
+        helper(ans,num,n,k,start+1);
+        num.remove(num.size()-1);
     }
 
     public List<List<Integer>> combine(int n, int k) {

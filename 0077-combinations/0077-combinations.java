@@ -1,26 +1,20 @@
 class Solution {
-    public void helper(int arr[],List<Integer> temp,List<List<Integer>> result,int k){
-        if(temp.size() == k){
-            result.add(new ArrayList(temp));
+    public void helper(List<List<Integer>> ans,List<Integer> num,int n,int k,int start){
+        if(num.size() == k){
+            ans.add(new ArrayList<>(num));
             return;
         }
-        
-        for(int num:arr){
-            if(temp.contains(num)) return;
-            temp.add(num);
-            helper(arr,temp,result,k);
-            temp.remove(temp.size()-1);
+        for(int i=start;i<=n;i++){
+            num.add(i);
+            helper(ans,num,n,k,i+1);
+            num.remove(num.size()-1);
         }
     }
-    public List<List<Integer>> combine(int n, int k) {
-        int arr[] = new int[n];
-        for(int i = 1;i<=n;i++){
-            arr[i-1] = i;
-        }
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        helper(arr,temp,result,k);
-        return result;
 
+    public List<List<Integer>> combine(int n, int k) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> num = new ArrayList<>();
+        helper(ans,num,n,k,1);
+        return ans;
     }
 }

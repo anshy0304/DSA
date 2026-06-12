@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshy0304/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anshy0304/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshy0304/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anshy0304/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anshy0304/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anshy0304/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Backtracking
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshy0304/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/anshy0304/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anshy0304/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anshy0304/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anshy0304/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshy0304/DSA/tree/master/2360-longest-cycle-in-a-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anshy0304/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |

@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshy0304/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshy0304/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anshy0304/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshy0304/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anshy0304/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshy0304/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/anshy0304/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshy0304/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshy0304/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anshy0304/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshy0304/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/anshy0304/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anshy0304/DSA/tree/master/1127-last-stone-weight) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshy0304/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Queue
 |  |
 | ------- |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/anshy0304/DSA/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/anshy0304/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/anshy0304/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |

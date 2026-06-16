@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anshy0304/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/anshy0304/DSA/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/anshy0304/DSA/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anshy0304/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -945,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/anshy0304/DSA/tree/master/3161-block-placement-queries) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/anshy0304/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

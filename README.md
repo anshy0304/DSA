@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/anshy0304/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/anshy0304/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshy0304/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/anshy0304/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/anshy0304/DSA/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/anshy0304/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshy0304/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |

@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/anshy0304/DSA/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/anshy0304/DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/anshy0304/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/anshy0304/DSA/tree/master/0584-find-customer-referee) |

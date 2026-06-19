@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anshy0304/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anshy0304/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/anshy0304/DSA/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshy0304/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshy0304/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anshy0304/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/anshy0304/DSA/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/anshy0304/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/anshy0304/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshy0304/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anshy0304/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/anshy0304/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshy0304/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/anshy0304/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/anshy0304/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anshy0304/DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshy0304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/anshy0304/DSA/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anshy0304/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anshy0304/DSA/tree/master/1127-last-stone-weight) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anshy0304/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -936,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshy0304/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -967,4 +973,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/anshy0304/DSA/tree/master/0707-design-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anshy0304/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

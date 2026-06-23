@@ -14,19 +14,26 @@
  * }
  */
 class Solution {
-    public TreeNode helper(TreeNode root,int val,TreeNode parent,TreeNode temp){
-        if(root == null){
-            if(parent.val > val) {parent.left = new TreeNode(val); return temp;}
-            else {parent.right = new TreeNode(val); return temp;}
+    public void helper(TreeNode root, int val, TreeNode parent) {
+        if (root == null) {
+            if (parent.val > val) {
+                parent.left = new TreeNode(val);
+                return;
+            } else {
+                parent.right = new TreeNode(val);
+                return;
+            }
         }
-        if(root.val > val){
-            return helper(root.left,val,root,temp);
-        }
-        else return helper(root.right,val,root,temp);
+        if (root.val > val) {
+            helper(root.left, val, root);
+        } else
+            helper(root.right, val, root);
     }
 
     public TreeNode insertIntoBST(TreeNode root, int val) {
-        if(root == null) return new TreeNode(val);
-        return helper(root,val,new TreeNode(),root);
+        if (root == null)
+            return new TreeNode(val);
+        helper(root, val, new TreeNode());
+        return root;
     }
 }

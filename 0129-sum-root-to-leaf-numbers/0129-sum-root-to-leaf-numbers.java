@@ -15,23 +15,20 @@
  */
 class Solution {
     int sum = 0;
-    public void helper(TreeNode root,StringBuilder temp){
+    public void helper(TreeNode root,int num){
         if(root == null) return;
-        if(root.left == null && root.right == null){
-            temp.append(root.val);
-            sum += Integer.parseInt(temp.toString());
+        num = num*10 + root.val;
+        if(root.left == null && root.right == null) {
+            sum += num;
             return;
         }
-        int len = temp.length();
-        helper(root.left,temp.append(root.val));
-        temp.setLength(len);
-        helper(root.right,temp.append(root.val));
-        temp.setLength(len);
+        helper(root.left,num);
+        helper(root.right,num);
 
     }
 
     public int sumNumbers(TreeNode root) {
-        helper(root,new StringBuilder());
+        helper(root,0);
         
         return sum;
     }

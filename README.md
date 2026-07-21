@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/anshy0304/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/anshy0304/DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/anshy0304/DSA/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/anshy0304/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anshy0304/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/anshy0304/DSA/tree/master/0784-letter-case-permutation) |
 | [1009-complement-of-base-10-integer](https://github.com/anshy0304/DSA/tree/master/1009-complement-of-base-10-integer) |

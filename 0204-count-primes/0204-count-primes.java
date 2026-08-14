@@ -1,17 +1,14 @@
 class Solution {
     public int countPrimes(int n) {
-        if(n <= 2) return 0;
-        boolean[] arr = new boolean[n+1];
-        arr[0] = true;
-        arr[1] = true;
+        boolean[] arr = new boolean[n];
         int count = 0;
         for(int i=2;i<n;i++){
-            if(!arr[i]) {
-                int num = i;
+            if(!arr[i]){
                 count++;
-                while(num <= n){
-                    arr[num] = true;
-                    num += i;
+                int j = i;
+                while(j < n){
+                    arr[j] = true;
+                    j += i;
                 }
             }
         }

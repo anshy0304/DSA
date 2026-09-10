@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshy0304/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anshy0304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anshy0304/DSA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/anshy0304/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshy0304/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshy0304/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/anshy0304/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/anshy0304/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/anshy0304/DSA/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/anshy0304/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/anshy0304/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshy0304/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anshy0304/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshy0304/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anshy0304/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/anshy0304/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshy0304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshy0304/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anshy0304/DSA/tree/master/0643-maximum-average-subarray-i) |

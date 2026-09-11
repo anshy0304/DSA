@@ -1,5 +1,6 @@
 class Solution {
     public boolean canFinish(int V, int[][] e) {
+
         List<List<Integer>> graph = new ArrayList<>();
         for(int i=0;i<V;i++){
             graph.add(new ArrayList<>());
@@ -9,30 +10,27 @@ class Solution {
             int b = e[i][1];
             graph.get(b).add(a);
         }
-        int[] inorder = new int[V];
+        int in[] = new int[V];
         for(int i=0;i<V;i++){
             for(int nbr:graph.get(i)){
-                inorder[nbr]+=1;
+                in[nbr]+=1;
             }
         }
-
-        Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> que = new LinkedList<Integer>();
         for(int i=0;i<V;i++){
-            if(inorder[i] == 0) q.add(i);
+            if(in[i] == 0) que.add(i);
         }
-
-        
-        int i = 0;
-        while(!q.isEmpty()){
-            int f = q.poll();
-            
-            for(int nbr:graph.get(f)){
-                inorder[nbr]--;
-                if(inorder[nbr] == 0) q.add(nbr);
+        if(que.isEmpty()) return false;
+        while(!que.isEmpty()){
+            int source = que.poll();
+            for(int num:graph.get(source)){
+                in[num]--;
+                if(in[num] == 0) que.add(num);
             }
-            i++;
         }
-        if(i != V) return false;
+        for(int i=0;i<V;i++){
+            if(in[i] != 0) return false;
+        }
         return true;
     }
 }

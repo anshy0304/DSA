@@ -1058,4 +1058,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anshy0304/DSA/tree/master/0204-count-primes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anshy0304/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
